@@ -6,7 +6,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 
 def speak_to_grandma(phrase)
-  phrase = ""
+ 
   if phrase == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == phrase.upcase
